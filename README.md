@@ -1,4 +1,4 @@
-![](img/logo.jpg =250x250)
+<img src="img/logo.jpg" width="500">
 
 Экспериментальный юмор про IT сообщество
 
